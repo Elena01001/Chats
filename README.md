@@ -1,4 +1,4 @@
-# Mini Project "Chats"
+# Chats
 
 Личные сообщения - один из неотъемлемых компонентов любого социального сервиса.
 
@@ -17,6 +17,7 @@
 - Сlass ChatService, где представлено 8 ф-ций, такие как fun addChat, fun addMessage, fun getChats, fun getUnreadChatsCount, fun editMessage, fun deleteChat, fun deleteMessage, fun getMessages
 
 Пример ф-ций:
+
 ![image](https://user-images.githubusercontent.com/98683741/179836977-d06e136c-43e9-4dd8-a023-c6718a1ed8dc.png)
 
 - Сlass ChatServiceTest, где прописан код, тестирующий каждую функцию
